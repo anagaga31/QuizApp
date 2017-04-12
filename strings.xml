@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">UK Road Signs Test</string>
+
+    <string name="submit">SUBMIT</string>
+    <string name="reset">RESET</string>
+
+    <string name="question_one">1. What does this sign mean?</string>
+    <string name="answer_one_a">There is a paddock with a gate ahead; prepare to stop</string>
+    <string name="answer_one_b">Slow down; there is a school ahead</string>
+    <string name="answer_one_c">There is a residential area ahead</string>
+    <string name="answer_one_d">There is a level crossing with a barrier or gate ahead</string>
+
+    <string name="question_two">2. Triangular signs provide</string>
+
+    <string name="question_three">3. If you find this sign in a area you cannot..</string>
+    <string name="answer_three_a">Stop</string>
+    <string name="answer_three_b">Park</string>
+    <string name="answer_three_c">Load</string>
+    <string name="answer_three_d">Unload</string>
+
+    <string name="question_four">4. What does this road sign indicate?</string>
+    <string name="answer_four_a">Roundabout ahead</string>
+    <string name="answer_four_b">Mini-roundabout ahead</string>
+    <string name="answer_four_c">No vehicles past this point</string>
+    <string name="answer_four_d">Ring road ahead</string>
+
+
+    <string name="question_five">5. What does this sign mean?</string>
+    <string name="answer_five_a">Do not overtake</string>
+    <string name="answer_five_b">The opposing lane has priority</string>
+    <string name="answer_five_c">Wrong way; go back</string>
+    <string name="answer_five_d">Your lane has priority</string>
+
+
+    <string name="question_six">6. You see children playing on the road in a Home Zone. What should you do?</string>
+    <string name="answer_six_a">Drive around the children</string>
+    <string name="answer_six_b">You should not be driving in a home zone</string>
+    <string name="answer_six_c">Wait for the children to move</string>
+    <string name="answer_six_d">Sound your horn; they have no right to be there</string>
+
+    <string name="question_seven">7. What does this road sign represent?</string>
+    <string name="answer_seven_a">A 20-mph zone</string>
+    <string name="answer_seven_b">A double bend</string>
+    <string name="answer_seven_c">For residents only</string>
+    <string name="answer_seven_d">A one-way street</string>
+
+    <string name="question_eight">8. What does this sign mean?</string>
+    <string name="answer_eight_a">The maximum speed limit is no longer 30 mph</string>
+    <string name="answer_eight_b">The recommended speed limit is no longer 30 mph</string>
+    <string name="answer_eight_c">The minimum speed limit is no longer 30 mph</string>
+    <string name="answer_eight_d">The minimum speed limit is 30 mph</string>
+
+
+    <string name="question_nine">9. After seeing this sign, what should you beware of?</string>
+    <string name="answer_nine_a">A road with a steep camber</string>
+    <string name="answer_nine_b">A town with an unusually high tax rate</string>
+    <string name="answer_nine_c">A steep descent</string>
+    <string name="answer_nine_d">A steep ascent</string>
+
+    <string name="question_ten">10. You see this sign by the roadside. What is ahead?</string>
+    <string name="answer_ten_a">A tunnel</string>
+    <string name="answer_ten_b">A four-way junction</string>
+    <string name="answer_ten_c">A no through road</string>
+    <string name="answer_ten_d">A level crossing without a barrier</string>
+
+</resources>
